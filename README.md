@@ -1,4 +1,4 @@
-KB Range Management System — FastAPI Backend
+*KB Range Management System — FastAPI Backend*
 Backend API for Kenya Bunduki Indoor Shooting Range (Production-Ready Architecture)
 
 This repository contains the official backend service for the Kenya Bunduki Indoor Range Management System — built with FastAPI, Uvicorn, and a clean modular architecture designed for scalability, speed, and reliability.
